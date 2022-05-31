@@ -1,6 +1,8 @@
 ## Welcome to GitHub Pages
+## Bem vindo ao GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/bobovo/bobovo.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+Você pode usar o [editor on GitHub](https://github.com/bobovo/bobovo.github.io/edit/main/README.md) para manter e pré vizualizar o conteudo de seu website em arquivos do tipo Markdown.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 

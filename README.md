@@ -14,6 +14,8 @@ O que você comitar neste repositorio, O Github Pages irá rodar [Jekyll](https:
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
+Markdown é leve de syntaxyque facilita sua escrita. e tem muitas conveniecias como
+
 Markdown
 
 ```markdown
